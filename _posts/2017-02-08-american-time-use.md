@@ -66,7 +66,7 @@ Here, we finally get some numbers. Again, watch the range of the y-axis. I have 
 The "meat" so to say is in the first subgraphs. Here we can see that young employed people use the weekend to catch up on their school work, middle-aged employees focus on the weekend's household chores and the older 
 you get, the more you spend that extra time from work with religious activities like going to church. Oh, and everyone sleeps and relaxes.[^2]
 
-How do we spend our extra 7.6 hours on days off?[^3] 2 hours sleeping, 1 hour watching TV, 3 hours relaxing and socializing, 1.5 hours tidying, cleaning, and mowing the lawn.  
+So, how do we spend our extra 7.6 hours on days off?[^3] The answer is 2 hours sleeping, 1 hour watching TV, 3 hours relaxing and socializing, 1.5 hours tidying, cleaning, and mowing the lawn.  
 
 &nbsp;
 
