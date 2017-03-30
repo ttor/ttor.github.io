@@ -1,0 +1,19 @@
+    <header class="menu">
+      <div class="menu-home">
+        <a href="/">Dr. Torben Ott</a>
+      </div>
+      <div class="menu-links">
+        <div class="menu-item{% if page.title == "Home" %}{{ " menu-active" }}{% endif %}">
+          <a href="/">Home</a>
+        </div>
+        <div class="menu-item{% if page.title == "Publications" %}{{ " menu-active" }}{% endif %}">
+          <a href="/publications.html">Publications</a>
+        </div>        
+        <div class="menu-item{% if page.title == "Posts" %}{{ " menu-active" }}{% endif %}">
+          <a href="/posts.html">Posts</a>
+        </div>
+        <div class="menu-item{% if page.title == "About" %}{{ " menu-active" }}{% endif %}">
+          <a href="/about.html">Contact</a>
+        </div>
+      </div>
+    </header>

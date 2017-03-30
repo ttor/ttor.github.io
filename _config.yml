@@ -1,0 +1,33 @@
+# Site settings
+title: Torben Ott	
+author: Torben Ott
+description: "Physicist, Data Scientist"
+url: "https://torben-ott.de"
+alt_url: "https://torben-ott.de"
+encoding: utf-8
+markdown: kramdown
+assets: /assets
+
+
+collections:
+  docs:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: page
+      syntax_highlight: false
+
+contact:
+  email: x
+  github: ttor
+  linkedin: torben-ott-87199270xing
+  xing: Torben_Ott
+
+exclude:
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,42 @@
+---
+title: Publications
+permalink: /publications.html
+---
+<h3>Publications</h3>
+
+<div id="project" class="things">
+ 
+   {% assign publications=site.data.publications | sort: 'year' | reverse %}
+   {% assign s=publications.size | minus:1%}
+   {% assign cur_year=publications[0].year |plus:1 %}
+   {% for i in (0..s) %}
+   {% assign publication = publications[i] %}
+   {% if true %}
+    {% if publication.year < cur_year %}
+     <h3>{{ publication.year}}</h3>
+     {% assign cur_year = publication.year %}
+    {% endif %}
+   {% endif %}
+  
+  
+  <div class="things-item">
+  {{  site.year_subdivision }}
+             <div class="things-title">{{ s|minus:i|plus:1 }}. {{ publication.name }}</div>
+             <div class="things-author">{{ publication.authors }}</div>
+             <div class="things-link"><a href="{{ publication.link }}" target="_blank">{{ publication.journal }}</a>.</div>
+  </div>
+  {% endfor %}
+</div>
+
+<br>
+<h3>Thesis</h3>
+
+<div id="project" class="things">
+  <div class="things-item">
+             <div class="things-title">Transport and Waves in Strongly Coupled Coulomb and Yukawa One-Component-Plasmas</div>
+             <div class="things-author">Torben Ott</div>
+             <div class="things-link">Kiel University, 2012</div>
+  </div>
+
+</div>
+
