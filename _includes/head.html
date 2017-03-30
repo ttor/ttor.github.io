@@ -1,4 +1,14 @@
   <head>
+{% if page.title == "Posts" %}
+<!-- disable footnote display on Blog -->
+<style>
+.footnotes{
+    display:none
+}
+.footnote{
+display:none}
+</style>
+{% endif %}
     <meta charset="UTF-8">
     <meta name="description" content="{{ site.description }}"/>
     <title>{{ page.title }} | {{ site.title }}</title>
