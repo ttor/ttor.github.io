@@ -1,6 +1,7 @@
 Thumb.db
 image/Thumb.db
 photo/Thumb.db
+_site
 *.swp
 .sass-cache
 Gemfile.lock
