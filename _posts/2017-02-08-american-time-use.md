@@ -55,7 +55,7 @@ Here is the graph---green/dashed are workdays and orange/solid are days off (cli
 [![](../image/atus_worknwork_sm.png)](../image/atus_worknwork.png)
 
 Note the different scales on the y-axis and the noise level indicated by the scatter points. Obviously, when we work less, we sleep more and watch more TV. But we also clean up 
-the house and go out and socialize. If you look at the data, you can also see the age at which we care for our kids (household member) and the age at which 
+the house and go out and socialize. If you look at the data, you can also see the age at which we care for our kids (household members) and the age at which 
 we care for our parents (non-household members). 
 
 But back to the question from the title. Since we're actually interested in the change of time spent, let's look at the difference between work days and days off:
