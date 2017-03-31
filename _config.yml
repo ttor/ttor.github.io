@@ -8,7 +8,7 @@ encoding: utf-8
 markdown: kramdown
 assets: /assets
 
-
+ 
 collections:
   docs:
     output: true
