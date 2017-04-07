@@ -1,0 +1,16 @@
+---
+title: Posts
+permalink: /posts.html
+---
+
+<div class="archive-main">
+<!--   <h3 class="archive-year">Programming</h3> -->
+  {% for post in site.posts %}
+    <div class="archive-item">
+      <div class="archive-date">{{post.date | date:"%B %d, %Y" }}</div>
+      <div class="archive-title"><a href="{{ post.permalink }}">{{ post.title }}</a></div>
+      <div class="archive-title">{{ post.excerpt | strip_footnotes }}</div>
+      <div class="archive-more"><a href="{{ post.permalink }}">read more</a></div>
+    </div>
+  {% endfor %}
+</div>
