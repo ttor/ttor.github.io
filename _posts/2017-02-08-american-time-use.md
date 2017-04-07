@@ -52,7 +52,11 @@ let's use a cutoff of 1 hour of work. Days with more than that amount of time sp
 
 Here is the graph---green/dashed are workdays and orange/solid are days off (click to enlarge): 
 
-[![](../image/atus_worknwork_sm.png)](../image/atus_worknwork.png)
+<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
+
+<a data-fancybox="gallery" href="../image/atus_worknwork_sm.png"><img src="../image/atus_worknwork_sm.png"></a>
 
 Note the different scales on the y-axis and the noise level indicated by the scatter points. Obviously, when we work less, we sleep more and watch more TV. But we also clean up 
 the house and go out and socialize. If you look at the data, you can also see the age at which we care for our kids (household members) and the age at which 
@@ -60,7 +64,7 @@ we care for our parents (non-household members).
 
 But back to the question from the title. Since we're actually interested in the change of time spent, let's look at the difference between work days and days off:
 
-[![](../image/atus_diff_sm.png)](../image/atus_diff.png)
+<a data-fancybox="gallery" href="../image/atus_diff_sm.png"><img src="../image/atus_diff_sm.png"></a>
 
 Here, we finally get some numbers. Again, watch the range of the y-axis. I have ordered the subplots roughly in order of decreasing total time difference. 
 The "meat" so to say is in the first subgraphs. Here we can see that young employed people use the weekend to catch up on their school work, middle-aged employees focus on the weekend's household chores and the older 
