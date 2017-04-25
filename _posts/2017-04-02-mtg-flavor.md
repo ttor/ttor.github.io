@@ -4,7 +4,7 @@ title:  The color of text
 permalink: /page/color-of-text-mtg.html
 excerpt_separator: <!--more-->
 use_math: true
-published: true
+published: false
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
