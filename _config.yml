@@ -1,7 +1,7 @@
 # Site settings
 title: Torben Ott	
 author: Torben Ott
-description: "Physicis"
+description: ""
 url: "https://torben-ott.de"
 alt_url: "https://torben-ott.de"
 encoding: utf-8
@@ -24,7 +24,7 @@ defaults:
 contact:
   email: x
   github: ttor
-  linkedin: torben-ott-87199270xing
+  linkedin: dr-torben-ott
   xing: Torben_Ott
 
 exclude:
