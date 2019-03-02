@@ -1,3 +1,8 @@
+- name: "Self-diffusion in two-dimensional quasi-magnetized rotating dusty plasmas"
+  authors: P. Hartmann, J.C. Reyes, E.G. Kostadinova, L.S. Matthews, T.W. Hyde, R.U. Masheyeva, K.N. Dzhumagulova, T.S. Ramazanov, T. Ott, H. Kaehlert, M. Bonitz, I. Korolov, and Z. Donko 
+  journal: Physical Review E 99, 013203 (2019)
+  year: 2019
+  link: https://link.aps.org/doi/10.1103/PhysRevE.99.013203
 - name: "Recent progress in the theory and simulation of strongly correlated plasmas: phase transitions, transport, quantum, and magnetic field effects"
   authors: T. Ott, H. Thomsen, J. W. Abraham, T. Dornheim, and M. Bonitz
   journal: The European Physical Journal D 72:84 (2018)
@@ -17,7 +22,12 @@
   authors: T. Ott
   journal: BI-Spektrum 2/2018, p. 26-29
   year: 2018
-  link: https://www.consist.de/opencms/export/sites/www.consist.de/.content/news/_downloads/Sonderdruck_Ott_BI_02_2018.pdf
+  link: https://www.consist.de/export/sites/www.consist.de/.content/downloads/_downloads/Sonderdruck_Ott_BI_02_2018.pdf
+- name: "Machine Learning zur automatisierten Erkennung von Schadwagen"
+  authors: T. Ott
+  journal: Bahn Manager 06/18, p. 20-21
+  year: 2018
+  link: https://www.consist.de/export/sites/www.consist.de/.content/downloads/_downloads/Machine-Learning-zur-Automatisierten-Erkennung-von-Schadwagen_bahnmanager-122018.pdf
 - name: Spontaneous generation of temperature anisotropy in a strongly coupled magnetized plasma
   authors: T. Ott, M. Bonitz, P. Hartmann, and Z. Donkó
   journal: Physical Review E 95, 013209 (2017)
