@@ -9,7 +9,7 @@ Copyright &copy; Torben Ott, {{ site.time | date: "%Y" }}.
 
 
 
-Torben Ott, Holtenauer Str. 111, 24105 Kiel
+Torben Ott, Sünnwisch 4, 24884 Selk
 
 Tel. +49 431 9072504,
 mail<i class="fa fa-at" aria-hidden="true"></i>torben-ott.de
