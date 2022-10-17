@@ -5,8 +5,7 @@ font_awesome: true
 ---
 ### Bio
 
-Hi, I am Torben Ott. I am an IT consultant for data science
-and big data applications at [Consist Software Solutions](http://www.consist.de). 
+Hi, I am Torben Ott. I am a senior data architect at [T-Systems International](http://www.t-systems.de). 
 Previously, I was a research scientist at the [University of Kiel](http://www.uni-kiel.de/en){:target="_blank"} focussing on the modelling and simulation of highly correlated plasmas. 
 
 
